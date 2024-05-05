@@ -7,6 +7,7 @@ Simple To-Do-List where users can
 using command line to select their choices.
 
 To-Do List Features:
+
 Adding a task with a title (by default “Incomplete”).
 
 Viewing the list of tasks with their titles and statuses (e.g., "Incomplete" or "Complete").
